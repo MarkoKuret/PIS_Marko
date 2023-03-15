@@ -6,5 +6,6 @@ namespace PIS_Marko
 {
     class NewClass
     {
+        void EmptyMethod();
     }
 }

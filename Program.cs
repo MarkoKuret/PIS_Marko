@@ -10,5 +10,7 @@ namespace PIS_Marko
             Console.WriteLine("Novo");
             Console.WriteLine("Staro");
         }
+        
+        void bugFix();
     }
 }

@@ -8,6 +8,7 @@ namespace PIS_Marko
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Staro");
         }
     }
 }

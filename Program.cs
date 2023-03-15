@@ -11,6 +11,6 @@ namespace PIS_Marko
             Console.WriteLine("Staro");
         }
         
-        void bugFix();
+        void FixBugs();
     }
 }
